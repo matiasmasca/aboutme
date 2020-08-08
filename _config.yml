@@ -1,7 +1,7 @@
 # main text of home
 title: Matías Mascazzini personal site
 name: Matias Mascazzini
-bio: Workhorse Techie, software craftsmanship. I like Ruby http://ruby-lang.org, Ruby On Rails framework & drink mate. He/Him.
+bio: Workhorse Techie, software craftsmanship. I like Ruby http://ruby-lang.org, Ruby On Rails framework & drink mate. He/Him/él.
 
 # twitter summary info
 description: A blog about technology and other stuff that I like.
@@ -57,7 +57,7 @@ email: matiasmasca+blog@gmail.com
 authors:
   matiasmasca:
     name: Matias Mascazzini
-    bio:  Workhorse Techie, software craftsmanship. I like Ruby http://ruby-lang.org, Ruby On Rails framework & drink "mate". He/Him.
+    bio:  Workhorse Techie, software craftsmanship. I like Ruby http://ruby-lang.org, Ruby On Rails framework & drink "mate". He/Him/él.
     external-image: false
     picture: assets/images/profile.jpeg
     twitter: matiasmasca
