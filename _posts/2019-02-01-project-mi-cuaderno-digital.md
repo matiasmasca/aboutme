@@ -10,8 +10,12 @@ date: '2019-02-01 00:00:00'
 ---
 
 **codename**: *Cuaderno Gordo* - the chunky notebook
+(May 2017 → Jun 2020)
 
 It is a web app, with this api-rest, for communication between teachers and guardians. Actually it's used in some public elementary schools of Corrientes province, Argentina.
+
+I participated in the whole process from the Agile Inception to the deployment on servers; I collaborated with the product design process. Starting with some low-fi wireframe I developed the first version of the MVP app. After some validation we redesign and reimplement some parts of the app but in this phase I received most of the screens in html + css format to incorporate into the app. Finally I designed an API Restful that was consumed by an Android native App.
+
 
 Desarrollamos íntegramente una plataforma de comunicación para el sector Educativo, desde el concepto, su diseño y desarrollo, hasta el despliegue; colaborando con la empresa Horeb Capacitaciones quién aportó su conocimiento en el campo, las validaciones tempranas con los usuarios y realizó las capacitaciones a los usuarios finales.
 
